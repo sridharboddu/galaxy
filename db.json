@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "id": 2,
+      "firstname": "sridhar",
+      "lastname": "boddu",
+      "dob": "2021-07-15",
+      "salary": "2120"
+    },
+    {
+      "id": 3,
+      "firstname": "sree dhar",
+      "lastname": "boddu",
+      "dob": "2021-07-12",
+      "salary": "21323"
+    }
+  ]
+}
